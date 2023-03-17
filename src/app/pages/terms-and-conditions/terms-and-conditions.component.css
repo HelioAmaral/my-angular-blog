@@ -1,0 +1,7 @@
+.color-back{
+    background-color: var(--navbar-footer-color);
+}
+
+.color-front{
+    background-color: var(--beije);
+}

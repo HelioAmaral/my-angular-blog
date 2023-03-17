@@ -3,6 +3,7 @@
     width: 80vw;
     margin: auto;
     margin-bottom: 1em;
+    margin-top: 1em;
 }
 
 input[type = text], input[type = email]{
@@ -18,7 +19,7 @@ input[type = text], input[type = email]{
     height: 3em;
     padding-left: 1rem;
     padding-right: 1rem;
-    background-color: var(--primary-color);
+    background-color: var(--navbar-footer-color);
     color: whitesmoke;
     align-content: center;
 }

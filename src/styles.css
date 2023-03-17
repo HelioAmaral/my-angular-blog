@@ -6,10 +6,10 @@
 :root {
   --secondary-color: #fffcff;
   --body-text-color: #50514f;
-  --navbar-footer-color: #cbd4c2;
-  --primary-color: #247ba0;
-  --beije: #c3b299;
-  --caramel: #be7c4d;
+  --navbar-footer-color: #122F68;
+  --primary-color: #26A5CF;
+  --beije: #ded1bd;
+  --caramel: #B89365;
 }
 
 body {
@@ -30,3 +30,16 @@ body {
     box-shadow: 0px 0px 33px -10px rgba(71, 114, 254, 0.3);
 }
 
+.bg-theme{
+  background-color: var(--primary-color);
+}
+
+.btn-sub{
+  border: none;
+  height: 3em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background-color: var(--navbar-footer-color);
+  color: whitesmoke;
+  align-content: center;
+}

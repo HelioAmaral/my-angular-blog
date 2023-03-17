@@ -1,0 +1,9 @@
+.reply{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.comment-box{
+    padding: 1em 2.3em;
+    background-color: var(--beije);
+}
