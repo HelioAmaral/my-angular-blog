@@ -1,0 +1,29 @@
+.card{
+    background-color: var(--caramel);
+    width: 80vw;
+    margin: auto;
+    margin-bottom: 1em;
+}
+
+input[type = text], input[type = email]{
+    height: 3em;
+    padding-left: 1.4em;
+    font-size: 1rem;
+    width: 100%;
+    border: none;
+}
+
+.btn-sub{
+    border: none;
+    height: 3em;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: var(--primary-color);
+    color: whitesmoke;
+    align-content: center;
+}
+
+.subs-text{
+    max-width: 35em;
+    padding-bottom: 1em;
+}

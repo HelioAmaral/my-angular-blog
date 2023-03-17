@@ -1,0 +1,14 @@
+nav{
+    margin-top: 8em;
+    height: 3em;
+    background-color: var(--navbar-footer-color);
+}
+
+li{
+    margin-left: 5em;
+}
+
+.nav-link{
+    text-transform: uppercase;
+    color: var(--primary-color);
+}

@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+:root {
+  --secondary-color: #fffcff;
+  --body-text-color: #50514f;
+  --navbar-footer-color: #cbd4c2;
+  --primary-color: #247ba0;
+  --beije: #c3b299;
+  --caramel: #be7c4d;
+}
+
+body {
+  font-family: "Roboto";
+  font-size: 1rem;
+  color: var(--body-text-color);
+}
+
+.site-logo {
+  padding: 5px 1.2em;
+  color: var(--body-text-color);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.shadow-effect{
+    border: none;
+    box-shadow: 0px 0px 33px -10px rgba(71, 114, 254, 0.3);
+}
+
